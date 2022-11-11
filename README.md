@@ -33,7 +33,7 @@
   <img align="left" width=70px src="https://i.pinimg.com/originals/2d/56/d9/2d56d904b055625cc83afae9db3b7f57.png"/>
 </a>
 <a href="mailto:mahendrachauhan@gmail.com">
-  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
+  <img align="left" width=70px src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
 </a></br>
 <br>
 <br>
