@@ -17,7 +17,7 @@
 - **Database Technologies**: `MySQL` , `MongoDB` , `PHPMyadmin`
 
 
-- **Programming Profiles** :  [CodeForces](https://codeforces.com/profile/amisha_26), [Codechef](https://www.codechef.com/users/amisha_26) , [LeetCode](https://leetcode.com/amishapurswani/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ameeshapurswani/practice/), [BinarySearch](https://binarysearch.com/@/amishapurswani), [HackerEarth](https://www.hackerearth.com/@ameeshapurswani)
+- **Programming Profiles** :  [CodeForces](https://codeforces.com), [Codechef](https://www.codechef.com) , [LeetCode](https://leetcode.com), [Geeksforgeeks](https://auth.geeksforgeeks.org), [BinarySearch](https://binarysearch.com), [HackerEarth](https://www.hackerearth.com)
 
 
 <br>
